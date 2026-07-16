@@ -10,67 +10,9 @@ Pending.
 
 ## 1.1 Taxonomy
 
-### Economic terrain
-
 Pending.
-
-### Customer type
-
-Pending.
-
-### Value-creation mechanism
-
-Pending.
-
-### Revenue model
-
-Pending.
-
-### Position in the value chain
-
-Pending.
-
-### Business stage and vehicle
-
-Pending.
-
-### Geography and institutions
-
-Pending.
-
-### Time and technological change
-
-Pending.
-
-## Asset produced
-
-Pending.
-
----
 
 ## 1.2 How to Traverse the Taxonomy
-
-### Start broadly
-
-Pending.
-
-### Separate terrain from vehicle
-
-Pending.
-
-### Use economically meaningful units
-
-Pending.
-
-### Search for omissions
-
-Pending.
-
-### Stop expanding before evaluation
-
-Pending.
-
-## Asset produced
 
 Pending.
 
@@ -82,39 +24,15 @@ Pending.
 
 Pending.
 
-## Asset produced
-
-Pending.
-
----
-
 ## 2.2 Decomposition into Industries
 
 Pending.
-
-## Asset produced
-
-Pending.
-
----
 
 ## 2.3 Decomposition into Verticals
 
 Pending.
 
-## Asset produced
-
-Pending.
-
----
-
 ## 2.4 Consolidated Opportunity Universe
-
-### Rules of the consolidated universe
-
-Pending.
-
-## Asset produced
 
 Pending.
 
